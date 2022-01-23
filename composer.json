@@ -1,13 +1,13 @@
 {
-  "name": "maarsson/Elen-theme",
+  "name": "maarsson/elen-theme",
   "type": "asgard-theme",
-  "description": "",
+  "description": "AsgardCMS theme: Elen personal blog theme",
   "keywords": [
     "asgard-cms"
   ],
   "license": "MIT",
   "require": {
-    "php": ">=5.5",
+    "php": ">=7.4",
     "composer/installers": "~1.0"
   },
   "scripts": {
